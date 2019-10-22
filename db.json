@@ -1,0 +1,55 @@
+{
+    "user": [
+        { "id": 1,
+            "username": "",
+            "password": "",
+            "email": ""
+        },
+        { "id": 2,
+            "username": "",
+            "password": "",
+            "email": ""
+        },
+        { "id": 3,
+            "username": "",
+            "password": "",
+            "email": ""
+        },
+        { "id": 4,
+            "username": "",
+            "password": "",
+            "email": ""
+        }
+    ],
+
+    "hotelDetails": [
+        {
+            "id": 1,
+            "name": "",
+            "address": "",
+            "contact": "",
+            "price": ""
+        },
+        {
+            "id": 2,
+            "name": "",
+            "address": "",
+            "contact": "",
+            "price": ""
+        },
+        {
+            "id": 3,
+            "name": "",
+            "address": "",
+            "contact": "",
+            "price": ""
+        },
+        {
+            "id": 4,
+            "name": "",
+            "address": "",
+            "contact": "",
+            "price": ""
+        }
+    ]
+}
